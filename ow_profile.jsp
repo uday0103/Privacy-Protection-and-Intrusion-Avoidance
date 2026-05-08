@@ -27,11 +27,11 @@
   <div class="header">
     <div class="header_resize">
       <div class="logo">
-        <h1><a href="index.html" class="style1 style2">A Secure and Efficient Cloud-Centric Internet of Medical Things Enabled <br /> Smart Healthcare System with Public Verifiability </a></h1>
+        <h1><a href="index.jsp" class="style1 style2">A Secure and Efficient Cloud-Centric Internet of Medical Things Enabled <br /> Smart Healthcare System with Public Verifiability </a></h1>
       </div>
       <div class="menu_nav">
         <ul>
-          <li><a href="index.html"><span>Home Page</span></a></li>
+          <li><a href="index.jsp"><span>Home Page</span></a></li>
           <li class="active"><a href="owner_login.jsp"><span>IOT Device</span></a></li>
           <li><a href="user_login.jsp"><span>Health Care Center</span></a></li>
           <li><a href="cs_login.jsp"><span>Medical Cloud Servers</span></a></li>
