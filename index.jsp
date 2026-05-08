@@ -68,7 +68,7 @@
           <h2 class="star"><span>Sidebar</span> Menu</h2>
           <div class="clr"></div>
           <ul class="sb_menu">
-            <li><strong><a href="index.html">Home Page</a></strong></li>
+            <li><strong><a href="index.jsp">Home Page</a></strong></li>
             <li><strong><a href="owner_login.jsp">IOT Device</a></strong></li>
             <li><strong><a href="user_login.jsp">Health Care Center</a></strong></li>
             <li><strong><a href="cs_login.jsp">Medical Cloud Servers</a></strong></li>
