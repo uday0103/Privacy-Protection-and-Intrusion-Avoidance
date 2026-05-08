@@ -32,7 +32,7 @@
       </div>
       <div class="menu_nav">
         <ul>
-          <li class="active"><a href="index.html"><span>Home Page</span></a></li>
+          <li class="active"><a href="index.jsp"><span>Home Page</span></a></li>
           <li><a href="owner_login.jsp"><span>IOT Device</span></a></li>
           <li><a href="user_login.jsp"><span>Health Care Center</span></a></li>
           <li><a href="cs_login.jsp"><span>Medical Cloud Servers</span></a></li>
